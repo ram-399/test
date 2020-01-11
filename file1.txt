@@ -1,1 +1,2 @@
 Hi This is file1
+i am doing changes in git Hub
